@@ -1,0 +1,4 @@
+.pytest*
+.venv
+scripts/csvfiles
+scripts/textfiles
